@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hola, soy Carlos Enrique Moctezuma Avalos 👋
 
-<!--
-**Enrique32479/Enrique32479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy Ingeniero Mecatrónico en transición hacia el área de **QA Engineering**. Actualmente me estoy formando en pruebas manuales, API Testing, documentación de bugs y validación de aplicaciones web mediante el Bootcamp de QA Engineering de TripleTen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cuento con experiencia en metrología, documentación técnica, manejo de datos en Excel, atención al cliente y procesos de calidad. Me interesa aplicar mi pensamiento analítico, atención al detalle y enfoque en mejora continua dentro del aseguramiento de calidad de software.
+
+## Áreas de interés
+
+- QA Engineering
+- Manual Testing
+- API Testing
+- Web Testing
+- Postman
+- JIRA
+- JSON
+- Excel
+- JavaScript
+
+## Herramientas y tecnologías
+
+- Postman
+- JIRA
+- Excel
+- JSON
+- JavaScript
+- GitHub
+
+## Actualmente aprendiendo
+
+- Diseño y ejecución de casos de prueba
+- Reporte de bugs
+- Validación de APIs
+- Documentación de pruebas
+- Flujo de trabajo en proyectos QA
+
+## Contacto
+
+- LinkedIn: www.linkedin.com/in/enrique-moctezuma
+- Correo: carlos.moctezuma@iest.edu.mx
