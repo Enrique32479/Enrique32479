@@ -46,10 +46,10 @@ Analicé respuestas en formato JSON para identificar errores críticos, fallas d
 
 Este proyecto me ayudó a reforzar conocimientos en API Testing, metodología HTTP, validación de servicios, análisis de errores y documentación de pruebas.
 
-![Pruebas de aplicaciones web](./assets/pruebas-api-postman1.jpeg)
+![Pruebas de aplicaciones web](./assets/pruebas-api-postman1.png)
 *Caso de prueba realizado en Postman para validar límites de productos permitidos en una solicitud.*
 
-![Pruebas de aplicaciones web](./assets/pruebas-api-postman1.jpeg)
+![Pruebas de aplicaciones web](./assets/pruebas-api-postman2.jpeg)
 *Bug documentado en JIRA con la información requerida para su seguimiento y corrección.*
 
 ## Herramientas y tecnologías
