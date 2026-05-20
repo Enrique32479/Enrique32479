@@ -30,6 +30,12 @@ Identifiqué y documenté bugs encontrados durante las pruebas, incluyendo error
 
 Este proyecto me permitió fortalecer habilidades en pruebas manuales, análisis funcional, documentación de errores, validación de requerimientos y trabajo con metodologías ágiles.
 
+![Pruebas de aplicaciones web](./assets/pruebas-web-jira1.jpeg)
+*Caso de prueba negativo en Urban Routes, donde se ingresó un número de tarjeta bancaria con menos dígitos de los requeridos. El sistema aceptó la solicitud cuando debía rechazarla, por lo que el error fue documentado y reportado en JIRA.*
+
+![Pruebas de aplicaciones web](./assets/pruebas-web-jiras.jpeg)
+*Bug documentado en JIRA con la información requerida para su seguimiento y corrección.*
+
 ### Pruebas de API con Postman | Bootcamp QA Engineering, TripleTen
 
 **Tecnologías utilizadas:** Postman, JSON, JIRA, Excel
@@ -39,6 +45,12 @@ Realicé pruebas manuales de API utilizando Postman, validando endpoints, respue
 Analicé respuestas en formato JSON para identificar errores críticos, fallas de comportamiento e inconsistencias en los datos. Documenté los hallazgos para facilitar el seguimiento y corrección de incidencias.
 
 Este proyecto me ayudó a reforzar conocimientos en API Testing, metodología HTTP, validación de servicios, análisis de errores y documentación de pruebas.
+
+![Pruebas de aplicaciones web](./assets/pruebas-api-postman1.jpeg)
+*Caso de prueba realizado en Postman para validar límites de productos permitidos en una solicitud.*
+
+![Pruebas de aplicaciones web](./assets/pruebas-api-postman1.jpeg)
+*Bug documentado en JIRA con la información requerida para su seguimiento y corrección.*
 
 ## Herramientas y tecnologías
 
